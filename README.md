@@ -1,1 +1,1 @@
-# 7.4-Tibia-Legacy
+# 7.4-Cipsoft-Tibia-Legacy
